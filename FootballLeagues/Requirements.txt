@@ -1,0 +1,14 @@
+Bootstrap cards
+Bootstrap table
+Image gallery
+Bs form
+Prompt for the users name 
+Modal
+Popover 
+Bs Navbar
+
+Home page
+Contact
+About us
+Register
+Gallery
